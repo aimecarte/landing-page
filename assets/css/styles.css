@@ -181,6 +181,10 @@ section:not(#banner,#newsletter) {
     }
 }
 
+.hero-rating {
+    font-size: .75rem;
+}
+
 .hero-review {
 
     span {
